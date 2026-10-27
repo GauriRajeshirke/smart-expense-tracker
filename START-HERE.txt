@@ -1,0 +1,11 @@
+SMART EXPENSE TRACKER - HOW TO RUN (Windows)
+
+You need these installed once: Node.js, Python, and MongoDB (as a Windows service).
+
+1. Double-click  setup.bat   (only the first time; takes a few minutes)
+2. Double-click  start.bat   (every time you want to use the app)
+3. The browser opens at http://localhost:5173
+   Demo login (fake sample data):  demo@example.com  /  Demo@1234
+4. Double-click  stop.bat    when you are finished
+
+If anything fails, take a screenshot of the window and send it to Claude.
